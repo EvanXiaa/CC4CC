@@ -4,6 +4,8 @@
 
 **[English](./README.md) | 中文**
 
+
+
 ---
 
 ## 背景
@@ -14,14 +16,22 @@
 
 为了方便社区并避免各类教程的混乱，本仓库旨在收集使用 Claude Code 自身来分析其设计的现有分析成果。
 
+### 扩展分析索引
+
+每个模块都有一个 `analysis/` 子目录，用于存放社区贡献的深度分析。主 [analysis/](./analysis/) 目录提供跨模块索引。
+
+| 标题 | 作者 | 外部分析链接 |Description |
+|----|-------|--------|-------------|
+| Claude Code v2.1.88 源码逆向分析 | 秋实 | http://xhslink.com/o/8YaWaT3ZfDr|  |
+| - | - | - | *Waiting for contributions* |
+
 ---
 
-## Learn 目录结构
+## 目录结构
 
 目录包含每个关键模块的详细分析。每个子目录专注于特定的架构组件：
 
 ```
-learn/
 ├── README.md                 # 本文件 - 概览与导航
 ├── README_CN.md              # 中文版
 ├── analysis/                 # 扩展分析索引（所有模块）
@@ -188,15 +198,6 @@ Token 预算管理、压缩和内存持久化。
 - **教育教程** 基于架构
 - **文档翻译**
 - **代码流程图**（不含实际代码）
-
-### 扩展分析索引
-
-每个模块都有一个 `analysis/` 子目录，用于存放社区贡献的深度分析。主 [analysis/](./analysis/) 目录提供跨模块索引。
-
-| 标题 | 作者 | 外部分析链接 |Description |
-|----|-------|--------|-------------|
-| Claude Code v2.1.88 源码逆向分析 | 秋实 | http://xhslink.com/o/8YaWaT3ZfDr|  |
-| - | - | - | *Waiting for contributions* |
 
 
 **如何提交扩展分析：**
