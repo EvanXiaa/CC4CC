@@ -6,15 +6,6 @@
 
 ---
 
-## Background
-
-On **March 31, 2026**, the source code for the latest version of Claude Code was inadvertently exposed through a source map included in its npm distribution.
-
-While this was an unintended mistake, it has sparked significant interest among researchers seeking to understand the design of what may be one of the most advanced coding agents available.
-
-To support the community—and to avoid fragmentation across scattered tutorials—this repository aims to consolidate existing analyses, many of which use Claude Code itself to examine and interpret its architecture.
-
----
 ## Extended Analysis
 
 
