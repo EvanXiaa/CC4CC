@@ -15,7 +15,7 @@ While this was an unintended mistake, it has sparked significant interest among 
 To support the community—and to avoid fragmentation across scattered tutorials—this repository aims to consolidate existing analyses, many of which use Claude Code itself to examine and interpret its architecture.
 
 ---
-Extended Analysis
+## Extended Analysis
 
 | Title | Author | Links |Description |
 |----|-------|--|-------------|
