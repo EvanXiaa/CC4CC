@@ -18,11 +18,12 @@
 
 ### 扩展分析索引
 
-每个模块都有一个 `analysis/` 子目录，用于存放社区贡献的深度分析。主 [analysis/](./analysis/) 目录提供跨模块索引。
+每个模块都有一个 `analysis/` 子目录，用于存放社区贡献的深度分析。主 [analysis/](./analysis/) 目录提供整体分析。
 
 | 标题 | 作者 | 外部分析链接 |Description |
-|----|-------|--------|-------------|
-| Claude Code v2.1.88 源码逆向分析 | 秋实 | http://xhslink.com/o/8YaWaT3ZfDr|  |
+|----|-------|--|-------------|
+| i read claude code's entire source code. here's what anthropic got wrong.  | Rohan | [link](https://x.com/rohan_2502/status/2038927786228998194) |
+| Claude Code v2.1.88 源码逆向分析 | 秋实 | [link](http://xhslink.com/o/8YaWaT3ZfDr)|  |
 | - | - | - | *Waiting for contributions* |
 
 ---
