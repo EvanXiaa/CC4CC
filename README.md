@@ -79,6 +79,16 @@ learn/
 
 ## Module Overview
 
+### [Context Management](./context-management/)
+Token budget management, compression, and memory persistence.
+
+#### Extended Analysis
+
+| Title | Author | Links |Description |
+|----|-------|--|-------------|
+|  How Claude Code Manage and Compact the Contexts. | Yifan | [link](./context-management/analysis/compact.md) |
+
+
 ### [Tool System](./tool-system/)
 The core abstraction for all agent actions. Each tool is a self-contained module with input schema, permission model, and execution logic.
 - **Key insight**: Dynamic registration enables deferred discovery and lazy loading
@@ -98,11 +108,7 @@ Bidirectional communication between CLI and IDE extensions.
 ### [Permission System](./permission-system/)
 Safety layer controlling when actions require user approval.
 - **Key insight**: Declarative permissions with semantic matching
-
-### [Context Management](./context-management/)
-Token budget management, compression, and memory persistence.
-- **Key insight**: Priority-based retention preserves critical information
-
+- 
 ### [Multi-Agent](./multi-agent/)
 Sub-agent spawning, team management, and inter-agent communication.
 - **Key insight**: Context isolation enables safe parallel work
