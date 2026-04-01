@@ -1,4 +1,4 @@
-# CC4CC - Using Claude Code for Decomposing Claude Code
+# CC4CC - A collection about all you need for Claude Code source code analysis. 
 
 > **Educational Analysis Only** - This repository does not contain any source code of the exposed artifacts and only contains analysis for educational purposes. No actual code is included in this documentation.
 
@@ -17,8 +17,11 @@ To support the community—and to avoid fragmentation across scattered tutorials
 ---
 ## Extended Analysis
 
+
 | Title | Author | Links |Description |
 |----|-------|--|-------------|
+  | [How Claude Code Works](https://github.com/Windy3f3f3f3f/how-claude-code-works) | Windy3f |
+  深入解析 Claude Code 架构与实现 |
 | i read claude code's entire source code. here's what anthropic got wrong.  | Rohan | [link](https://x.com/rohan_2502/status/2038927786228998194) |
 | Claude Code v2.1.88 源码逆向分析 | 秋实 | [link](http://xhslink.com/o/8YaWaT3ZfDr)|  |
 | - | - | - | *Waiting for contributions* |

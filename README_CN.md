@@ -1,4 +1,4 @@
-# CC4CC - 使用 Claude Code 解析 Claude Code
+# CC4CC - Claude Code 源码解析 Index
 
 > **仅供教育分析** - 本仓库不包含任何已公开制品的源代码，仅包含用于教育目的的分析。本文档不包含任何实际代码。
 
@@ -18,10 +18,11 @@
 
 ### 扩展分析索引
 
-每个模块都有一个 `analysis/` 子目录，用于存放社区贡献的深度分析。主 [analysis/](./analysis/) 目录提供整体分析。
+每个模块都有一个 `analysis/` 子目录，用于存放社区对该模块的深度分析。主 [analysis/](./analysis/) 目录提供社区整体分析。
 
 | 标题 | 作者 | 外部分析链接 |Description |
 |----|-------|--|-------------|
+  | How Claude Code Works | Windy3f |[link](https://github.com/Windy3f3f3f3f/how-claude-code-works)||
 | i read claude code's entire source code. here's what anthropic got wrong.  | Rohan | [link](https://x.com/rohan_2502/status/2038927786228998194) |
 | Claude Code v2.1.88 源码逆向分析 | 秋实 | [link](http://xhslink.com/o/8YaWaT3ZfDr)|  |
 | - | - | - | *Waiting for contributions* |
