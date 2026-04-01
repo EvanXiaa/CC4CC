@@ -20,7 +20,7 @@ To support the community—and to avoid fragmentation across scattered tutorials
 
 | Title | Author | Links |Description |
 |----|-------|--|-------------|
-  | [How Claude Code Works](https://github.com/Windy3f3f3f3f/how-claude-code-works) | Windy3f |
+  | How Claude Code Works | Windy3f |[link]((https://github.com/Windy3f3f3f3f/how-claude-code-works))|
   深入解析 Claude Code 架构与实现 |
 | i read claude code's entire source code. here's what anthropic got wrong.  | Rohan | [link](https://x.com/rohan_2502/status/2038927786228998194) |
 | Claude Code v2.1.88 源码逆向分析 | 秋实 | [link](http://xhslink.com/o/8YaWaT3ZfDr)|  |
