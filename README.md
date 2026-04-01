@@ -15,6 +15,14 @@ While this was an unintended mistake, it has sparked significant interest among 
 To support the community—and to avoid fragmentation across scattered tutorials—this repository aims to consolidate existing analyses, many of which use Claude Code itself to examine and interpret its architecture.
 
 ---
+Extended Analysis
+
+| Title | Author | Links |Description |
+|----|-------|--|-------------|
+| i read claude code's entire source code. here's what anthropic got wrong.  | Rohan | [link](https://x.com/rohan_2502/status/2038927786228998194) |
+| Claude Code v2.1.88 源码逆向分析 | 秋实 | [link](http://xhslink.com/o/8YaWaT3ZfDr)|  |
+| - | - | - | *Waiting for contributions* |
+---
 
 ## Learn Directory Structure
 
